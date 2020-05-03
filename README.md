@@ -6,5 +6,4 @@ Achoo ia a preventative care app that focuses on the general public’s inabilit
 - Bootstrap
 - JavaScript
 - Jquery
-- AJAX
-- API
+- AJAX/API
