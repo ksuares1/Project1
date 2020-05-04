@@ -8,7 +8,7 @@ Achoo ia a preventative care app that focuses on the general public’s inabilit
 - Jquery
 - AJAX/API
 
-## Collaborators
+## Meet the Team 
 
 Kimberly Suares: https://github.com/ksuares1
 
