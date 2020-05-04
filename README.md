@@ -10,8 +10,8 @@ Achoo ia a preventative care app that focuses on the general public’s inabilit
 
 ## Collaborators
 
-Kimberly Suares 
+Kimberly Suares: https://github.com/ksuares1
 
-Carlos Costoso
+Carlos Costoso: https://github.com/ccostoso
 
-Anna-Marie Mattis
+Anna-Marie Mattis:
