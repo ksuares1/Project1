@@ -7,3 +7,11 @@ Achoo ia a preventative care app that focuses on the general public’s inabilit
 - JavaScript
 - Jquery
 - AJAX/API
+
+## Collaborators
+
+Kimberly Suares 
+
+Carlos Costoso
+
+Anna-Marie 
