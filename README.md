@@ -5,7 +5,7 @@ Achoo ia a preventative care app that focuses on the general public’s inabilit
 ## Getting Started
 ![Achoo-question](https://user-images.githubusercontent.com/44280043/81520753-2b662e80-9313-11ea-94cd-ec62ee4373e0.png)
 
-![Achoo-flu](https://user-images.githubusercontent.com/44280043/81520776-3620c380-9313-11ea-81a6-c47a25fcfb51.png)
+![Achoo-flu](https://user-images.githubusercontent.com/44280043/81520852-72542400-9313-11ea-8d38-d1dad607d029.png)
 
 ## Technologies
 
