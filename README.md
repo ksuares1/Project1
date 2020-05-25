@@ -3,7 +3,6 @@
 Achoo ia a preventative care app that focuses on the general public’s inability to distinguish between the common cold and flu, and this mishap can lead to severe consequences. From 2017-2018, approximately 80,000 people died from the flu and 180 were children. This app helps users know when it’s time to see a doctor to determine whether or not they have a cold or flu. 
 
 ## Getting Started
-![Achoo-question](https://user-images.githubusercontent.com/44280043/81520753-2b662e80-9313-11ea-94cd-ec62ee4373e0.png)
 
 ![Achoo-flu](https://user-images.githubusercontent.com/44280043/81520852-72542400-9313-11ea-8d38-d1dad607d029.png)
 
