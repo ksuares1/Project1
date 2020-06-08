@@ -8,10 +8,10 @@ Once users answer a series of questions, they will get a result that states whet
 
 ## Technologies
 
-- Bootstrap
-- JavaScript
-- Jquery
-- AJAX/API
+- **Bootstrap**
+- **JavaScript**
+- **Jquery**
+- **AJAX/API**
 
 ## Meet the Team 
 
